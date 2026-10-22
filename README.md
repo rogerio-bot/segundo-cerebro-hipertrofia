@@ -1,12 +1,12 @@
-segundo-cerebro-hipertrofia
+# segundo-cerebro-hipertrofia
 
 Organização e análise de evidências científicas sobre hipertrofia muscular para fundamentar a prescrição do treinamento.
 
-Objetivo
+## Objetivo
 
 Analisar as evidências científicas sobre hipertrofia muscular para fundamentar a prescrição do treinamento na consultoria.
 
-Sobre o projeto
+## Sobre o projeto
 
 Este projeto utiliza o NotebookLM como ferramenta de apoio para organizar informações científicas sobre hipertrofia muscular, analisar resultados de pesquisas e verificar a confiabilidade das respostas geradas por inteligência artificial.
 
