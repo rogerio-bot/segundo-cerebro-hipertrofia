@@ -45,4 +45,9 @@ Próximas etapas
 * Verificar os resultados e as limitações dos estudos.
 * Testar novas perguntas no NotebookLM.
 * Registrar as respostas e suas respectivas fontes.
-* Adicionar o link compartilhável do notebook após verificar seu funcionamento.
+* Verificar o funcionamento do link compartilhável do notebook.
+
+
+NotebookLM
+
+[Acessar o notebook no NotebookLM](https://notebook.google.com/notebook/7cbe21f9-8e21-4f83-9d52-1c9bcc667959)
